@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mrizkystr
 - 👀 I’m interested in Back-End Developer
-- 🌱 I’m currently learning Express
+- 🌱 I’m currently learning Express and Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I support Barca
 
 <!---
 mrizkystr/mrizkystr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
