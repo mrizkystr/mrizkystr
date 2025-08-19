@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @mrizkystr
-- 👀 I’m interested in Back-End Developer
-- 🌱 I’m currently learning Express and Golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I support Barca
+👋 Hi there, I’m Rizky (@mrizkystr)
 
-<!---
-mrizkystr/mrizkystr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 About Me
+- 💻 Passionate about Back-End Development
+- 🌱 Currently learning Express.js, Golang & Next.js
+- 🤝 Open to collaborate on open-source projects, backend-systems & team-based applications
+- 🚀 Interested in building scalable backend systems & RESTful API
+- ⚡ Fun fact: A proud supporter of FC Barcelona
+
+🛠️ Tech Stack
+- Languages:JavaScript (Node.js), Golang, SQL, PHP
+- Frameworks:Express.js, Laravel, React (basic) & Next (basic) 
+- Databases:PostgreSQL, MySQL
+- Tools & Others:Git, Docker, Postman, Knex.js
+
+📫 How to Reach Me
+- Email: muhamadrizkysatria06@gmail.com
+- LinkedIn: Muhamad Rizky Satria | https://www.linkedin.com/in/muhamad-rizky-satria-475b37362/
+- GitHub: @mrizkystr | https://github.com/mrizkystr
+- Instagram: @muhrzkystr | https://www.instagram.com/muhrzkystr/
+
+✨ "Code, Learn, Improve, Repeat." ✨
