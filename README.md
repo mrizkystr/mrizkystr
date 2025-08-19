@@ -17,6 +17,6 @@
 - Email: muhamadrizkysatria06@gmail.com
 - LinkedIn: Muhamad Rizky Satria | https://www.linkedin.com/in/muhamad-rizky-satria-475b37362/
 - GitHub: @mrizkystr | https://github.com/mrizkystr
-- Instagram: @muhrzkystr | https://www.instagram.com/muhrzkystr/
+- Instagram: @muhrizkystr | https://www.instagram.com/muhrizkystr/
 
 ✨ "Code, Learn, Improve, Repeat." ✨
